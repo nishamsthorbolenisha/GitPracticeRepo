@@ -1,0 +1,2 @@
+hi i am editing names.txt file 
+to check command i editing once again
